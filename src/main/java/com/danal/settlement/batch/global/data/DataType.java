@@ -1,4 +1,4 @@
-package com.danal.settlement.global.data;
+package com.danal.settlement.batch.global.data;
 
 public enum DataType {
 
